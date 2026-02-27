@@ -15,7 +15,9 @@
   <a href="https://www.instagram.com/projetotvbox/">
     <img src="https://img.shields.io/badge/Instagram-%40projetotvbox-1a1a5e?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/IFSP-Campus%20Salto-1a1a5e?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  <a href="https://slt.ifsp.edu.br/">
+    <img src="https://img.shields.io/badge/IFSP-Campus%20Salto-1a1a5e?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
