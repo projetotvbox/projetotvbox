@@ -75,7 +75,7 @@ Projeto paralelo nascido dentro do ecossistema TVBox, com foco em soluções des
 
 ---
 
-## 👥 Equipe
+## 👥 Equipe de Desenvolvimento
 
 <table align="center">
   <tr>
