@@ -75,7 +75,7 @@ A parallel initiative born within the TVBox ecosystem, focused on solutions buil
 
 ---
 
-## 👥 Team
+## 👥 Development Team
 
 <table align="center">
   <tr>
