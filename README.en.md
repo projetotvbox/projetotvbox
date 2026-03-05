@@ -61,7 +61,7 @@ Hardware specs, decharacterization procedures, system images, and installation g
 | Metric | Value |
 |---|---|
 | 📦 Devices repurposed | **3,000+** |
-| 🏫 Schools reached | *Survey in progress* |
+| 🏫 Schools reached | *20+* |
 | 🐧 Models with documented support | **~5** |
 
 </p>
