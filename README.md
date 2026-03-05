@@ -61,7 +61,7 @@ A documentação de cada modelo — incluindo especificações de hardware, proc
 | Métrica | Valor |
 |---|---|
 | 📦 TVBoxes descaracterizadas | **3.000+** |
-| 🏫 Escolas atendidas | *Em levantamento* |
+| 🏫 Escolas atendidas | *20+* |
 | 🐧 Modelos com suporte documentado | **~5** |
 
 </p>
