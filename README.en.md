@@ -119,6 +119,17 @@ A parallel initiative born within the TVBox ecosystem, focused on solutions buil
 
 ---
 
+## 🎬 Media
+ 
+**TVBox Project – IFSP Salto**
+- [TV-Box - Project History](https://www.youtube.com/watch?v=Gm21Y2piiQE)
+ 
+**IFSPresente**
+- [IFSPresente - The Project](https://www.youtube.com/watch?v=T8nNGwOOCaY)
+- [Decharacterizations and IFSPresente](https://www.youtube.com/watch?v=XMEfrIfhEV4)
+
+---
+
 ## 📬 Contact
 
 - 📧 **Email:** [projetotvbox@ifsp.edu.br](mailto:projetotvbox@ifsp.edu.br)
